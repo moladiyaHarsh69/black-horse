@@ -1,0 +1,34 @@
+.group-child23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red-100);
+  width: 148.8px;
+  height: 49px;
+}
+.transport1 {
+  position: absolute;
+  top: 4px;
+  left: 6px;
+  display: inline-block;
+  width: 137px;
+  height: 40px;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148.8px;
+  height: 49px;
+}
+.group-top {
+  width: 100%;
+  position: relative;
+  height: 49px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

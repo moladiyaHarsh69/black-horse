@@ -1,0 +1,7 @@
+.rectangle-div2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-indianred);
+  height: 43px;
+}

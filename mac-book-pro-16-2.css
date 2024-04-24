@@ -1,0 +1,212 @@
+.macbook-pro-16-2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.85);
+  filter: blur(10px);
+  width: 1728px;
+  height: 115px;
+}
+.kathmandu-durbar-square1 {
+  position: absolute;
+  top: 41px;
+  left: 614px;
+  font-size: var(--font-size-21xl);
+  white-space: pre-wrap;
+}
+.macbook-pro-16-2-item {
+  position: absolute;
+  top: 115px;
+  left: 0;
+  width: 1728px;
+  height: 844px;
+  object-fit: cover;
+}
+.this-place-is {
+  margin: 0;
+}
+.this-place-is-container {
+  position: absolute;
+  top: 1047px;
+  left: 41px;
+  display: inline-block;
+  width: 1656px;
+  height: 350px;
+}
+.for-nepalese {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.entry-fee-for-container {
+  position: absolute;
+  top: 1435px;
+  left: 44px;
+}
+.macbook-pro-16-2-inner {
+  position: absolute;
+  top: 1601px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1728px;
+  height: 178px;
+}
+.lets-visit-to {
+  position: absolute;
+  top: 1651px;
+  left: 570px;
+}
+.group-child26,
+.places-to-visit {
+  position: absolute;
+  top: 1828px;
+  left: 25px;
+}
+.group-child26 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  width: 549px;
+  height: 465.8px;
+  object-fit: cover;
+}
+.shiva-parvati-temple {
+  position: absolute;
+  top: 501px;
+  left: 0;
+  display: inline-block;
+  width: 377px;
+  height: 48px;
+}
+.kumari-palace,
+.rectangle-parent25,
+.rectangle-parent26 {
+  position: absolute;
+  top: 1898px;
+  left: 21px;
+  width: 549px;
+  height: 549px;
+}
+.kumari-palace,
+.rectangle-parent26 {
+  top: 2478px;
+  left: 25px;
+}
+.kumari-palace {
+  top: 501px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 239px;
+  height: 48px;
+}
+.group-child29,
+.rectangle-parent27 {
+  position: absolute;
+  top: 1898px;
+  left: 589px;
+  width: 549px;
+  height: 549px;
+}
+.group-child29 {
+  top: 0;
+  left: 4px;
+  border-radius: var(--br-11xl);
+  height: 465.8px;
+  object-fit: cover;
+}
+.sweta-bhairav-temple {
+  position: absolute;
+  top: 501px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 364px;
+  height: 48px;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 2478px;
+  left: 589px;
+  width: 553px;
+  height: 549px;
+}
+.taleju-bhawani-temple {
+  position: absolute;
+  top: 501px;
+  left: 4px;
+  font-weight: 500;
+  display: inline-block;
+  width: 360px;
+  height: 48px;
+}
+.kasthamandap,
+.rectangle-parent29 {
+  position: absolute;
+  top: 1898px;
+  left: 1157px;
+  width: 549px;
+  height: 549px;
+}
+.kasthamandap {
+  top: 508px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 243px;
+  height: 48px;
+}
+.group-child32,
+.rectangle-parent30 {
+  position: absolute;
+  top: 2478px;
+  left: 1157px;
+  width: 553px;
+  height: 556px;
+}
+.group-child32 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightcoral);
+  width: 192px;
+  height: 58px;
+}
+.book-now {
+  position: absolute;
+  top: 9px;
+  left: 19px;
+}
+.rectangle-parent31 {
+  position: absolute;
+  top: 1703px;
+  left: 772px;
+  width: 192px;
+  height: 58px;
+}
+.macbook-pro-16-2-child1 {
+  position: absolute;
+  top: 3047px;
+  left: 5px;
+  background-color: var(--color-gainsboro-100);
+  width: 1728px;
+  height: 132px;
+}
+.back-to-home1 {
+  position: absolute;
+  top: 3089px;
+  left: 654px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  cursor: pointer;
+}
+.macbook-pro-16-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3179px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

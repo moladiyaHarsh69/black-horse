@@ -1,0 +1,130 @@
+.welcome-to-bhaktapur {
+  position: absolute;
+  top: 38px;
+  left: 648px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+}
+.macbook-pro-16-9-child {
+  position: absolute;
+  top: 106px;
+  left: 0;
+  width: 1728px;
+  height: 704px;
+  object-fit: cover;
+}
+.top-places-to {
+  position: absolute;
+  top: 852px;
+  left: 21px;
+  font-weight: 500;
+}
+.group-child,
+.taumadhi {
+  position: absolute;
+  left: 0;
+}
+.group-child {
+  top: 0;
+  border-radius: var(--br-11xl);
+  width: 549px;
+  height: 553.9px;
+  object-fit: cover;
+}
+.taumadhi {
+  top: 571px;
+  font-weight: 500;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 952px;
+  left: 21px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 549px;
+  height: 629px;
+  cursor: pointer;
+}
+.rectangle-group {
+  top: 1623px;
+  left: 21px;
+}
+.group-div,
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent1,
+.rectangle-parent2 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 549px;
+  height: 629px;
+}
+.rectangle-container {
+  top: 2294px;
+  left: 21px;
+}
+.group-div,
+.rectangle-parent1,
+.rectangle-parent2 {
+  left: 590px;
+}
+.group-div {
+  top: 952px;
+  cursor: pointer;
+}
+.rectangle-parent1,
+.rectangle-parent2 {
+  top: 1623px;
+}
+.rectangle-parent2 {
+  top: 2294px;
+}
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  position: absolute;
+  left: 1159px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-parent3 {
+  top: 952px;
+  width: 557px;
+  height: 627px;
+  cursor: pointer;
+  font-size: 46px;
+}
+.rectangle-parent4,
+.rectangle-parent5 {
+  top: 1623px;
+  width: 549px;
+  height: 629px;
+}
+.rectangle-parent5 {
+  top: 2294px;
+}
+.macbook-pro-16-9-item {
+  position: absolute;
+  top: 2923px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1728px;
+  height: 132px;
+}
+.back-to-home {
+  position: absolute;
+  top: 2965px;
+  left: 649px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  cursor: pointer;
+}
+.macbook-pro-16-9 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3055px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

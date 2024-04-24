@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.popup-overlay {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  inset: 0;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kelly-slab: "Kelly Slab";
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-10xl: 29px;
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-base: 16px;
+  --font-size-11xl: 30px;
+  --font-size-4xl: 23px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro-100: #d9d9d9;
+  --color-indianred: #cf5454;
+  --color-steelblue: #214e75;
+  --color-red-100: #f80f0f;
+  --color-red-200: #eb0b0b;
+  --color-silver-100: #c2bcbc;
+  --color-snow: #fffcfc;
+  --color-lightcoral: #ff8888;
+  --color-gray-100: #7d7979;
+  --color-gray-200: rgba(45, 42, 42, 0.25);
+  --color-darkgray: #a69f9f;
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-xl: 20px;
+}

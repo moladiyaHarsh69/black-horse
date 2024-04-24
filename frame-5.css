@@ -1,0 +1,33 @@
+.group-child22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-red-100);
+  width: 147.4px;
+  height: 49px;
+}
+.about-us1 {
+  position: absolute;
+  top: 4px;
+  left: 9px;
+  display: inline-block;
+  width: 130px;
+  height: 40px;
+}
+.rectangle-parent21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 147.4px;
+  height: 49px;
+}
+.group-root {
+  width: 100%;
+  position: relative;
+  height: 49px;
+  text-align: left;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

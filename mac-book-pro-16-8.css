@@ -1,0 +1,465 @@
+.macbook-pro-16-8-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 822px;
+  object-fit: cover;
+}
+.muktinath-tour3 {
+  position: absolute;
+  top: 865px;
+  left: 79px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.subtract-icon3 {
+  position: relative;
+  width: 262.6px;
+  height: 82px;
+}
+.p5 {
+  margin: 0;
+}
+.days4,
+.nights4 {
+  position: absolute;
+  top: 930px;
+  left: 99px;
+  font-size: var(--font-size-7xl);
+  text-align: center;
+}
+.days4 {
+  top: 929px;
+  left: 255px;
+}
+.jomsom1n2,
+.kathmandu1n4,
+.kathmandu1n5,
+.pokhara1n2 {
+  position: absolute;
+  top: 929px;
+  left: 537px;
+  text-align: center;
+}
+.jomsom1n2,
+.kathmandu1n5,
+.pokhara1n2 {
+  left: 827px;
+}
+.jomsom1n2,
+.kathmandu1n5 {
+  left: 1071px;
+}
+.kathmandu1n5 {
+  left: 1319px;
+}
+.macbook-pro-16-8-inner,
+.macbook-pro-16-8-item {
+  position: absolute;
+  top: 921px;
+  left: 504px;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1068px;
+  height: 2px;
+}
+.macbook-pro-16-8-inner {
+  top: 978px;
+}
+.fill-your-details2 {
+  position: absolute;
+  top: 1166px;
+  left: 79px;
+}
+.rs350003052,
+.starting-price-per2 {
+  position: absolute;
+  top: 1066px;
+  left: 79px;
+}
+.rs350003052 {
+  top: 1027px;
+}
+.add-room2,
+.room-12 {
+  position: absolute;
+  top: 1386px;
+  left: 143px;
+}
+.add-room2 {
+  top: 1425px;
+  font-size: var(--font-size-4xl);
+}
+.tour-type2,
+.travellers2 {
+  position: absolute;
+  top: 1254px;
+  left: 141px;
+}
+.travellers2 {
+  top: 1327px;
+  left: 143px;
+}
+.date-of-travels2 {
+  position: absolute;
+  top: 1520px;
+  left: 140px;
+}
+.contact-details2 {
+  position: absolute;
+  top: 1653px;
+  left: 141px;
+}
+.bxsuser-icon2,
+.macbook-pro-16-8-child1 {
+  position: absolute;
+  top: 1256px;
+  left: 107px;
+  width: 32px;
+  height: 32px;
+}
+.bxsuser-icon2 {
+  top: 1331px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.macbook-pro-16-8-child2,
+.macbook-pro-16-8-child3,
+.macbook-pro-16-8-child4 {
+  position: absolute;
+  top: 1514px;
+  left: 376px;
+  background-color: var(--color-gainsboro-100);
+  width: 212px;
+  height: 35px;
+}
+.macbook-pro-16-8-child3,
+.macbook-pro-16-8-child4 {
+  top: 1656px;
+}
+.macbook-pro-16-8-child4 {
+  left: 611px;
+}
+.email2,
+.mobile2 {
+  position: absolute;
+  top: 1662px;
+  left: 382px;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+}
+.email2 {
+  left: 617px;
+}
+.group-child55 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 89px;
+  height: 35px;
+}
+.group-child56,
+.group-child57,
+.group-child58 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 31px;
+  height: 35px;
+}
+.group-child57,
+.group-child58 {
+  left: 29px;
+}
+.group-child58 {
+  left: 58px;
+}
+.div13,
+.div14,
+.div15 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+}
+.div14,
+.div15 {
+  left: 63px;
+}
+.div15 {
+  top: 5px;
+  left: 38px;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent40 {
+  position: absolute;
+  top: 1387px;
+  left: 376px;
+  width: 89px;
+  height: 36px;
+}
+.div18 {
+  position: absolute;
+  top: 4px;
+  left: 38px;
+  font-size: var(--font-size-5xl);
+}
+.rectangle-parent41 {
+  position: absolute;
+  top: 1388px;
+  left: 486px;
+  width: 89px;
+  height: 36px;
+}
+.adult2,
+.child2 {
+  position: absolute;
+  top: 1352px;
+  left: 376px;
+  font-size: var(--font-size-5xl);
+}
+.child2 {
+  left: 501px;
+}
+.group-child63,
+.group-child64 {
+  position: absolute;
+  top: 0;
+  height: 35px;
+}
+.group-child63 {
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 212px;
+}
+.group-child64 {
+  left: 184px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.v2 {
+  position: absolute;
+  top: 3px;
+  left: 192px;
+}
+.rectangle-parent42 {
+  position: absolute;
+  top: 1251px;
+  left: 376px;
+  width: 212px;
+  height: 35px;
+  font-size: var(--font-size-5xl);
+}
+.yyyymmdd2 {
+  position: absolute;
+  top: 1520px;
+  left: 384px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.bxsphone-icon2,
+.vector-icon8 {
+  position: absolute;
+  overflow: hidden;
+}
+.bxsphone-icon2 {
+  top: 1646.6px;
+  left: 97.6px;
+  width: 50.9px;
+  height: 50.9px;
+  object-fit: contain;
+}
+.vector-icon8 {
+  height: 1.45%;
+  width: 1.74%;
+  top: 73.66%;
+  right: 92.25%;
+  bottom: 24.89%;
+  left: 6.02%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.i-accept-the2,
+.your-booking-details2 {
+  position: absolute;
+  top: 1729px;
+  left: 141px;
+  font-size: var(--font-size-base);
+}
+.i-accept-the2 {
+  top: 1780px;
+  left: 174px;
+  font-size: var(--font-size-xl);
+}
+.macbook-pro-16-8-child5 {
+  position: absolute;
+  top: 1780px;
+  left: 141px;
+  border: 2px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 25px;
+  height: 24px;
+}
+.group-child65 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red-200);
+  width: 387px;
+  height: 47px;
+}
+.calculate-package-price2 {
+  position: absolute;
+  top: 9px;
+  left: 56px;
+  font-weight: 500;
+}
+.rectangle-parent43 {
+  position: absolute;
+  top: 1839px;
+  left: 141px;
+  width: 387px;
+  height: 47px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.macbook-pro-16-8-child6 {
+  position: absolute;
+  top: 952px;
+  left: 760px;
+  max-height: 100%;
+  width: 57px;
+}
+.macbook-pro-16-8-child7,
+.macbook-pro-16-8-child8 {
+  position: absolute;
+  top: 951px;
+  left: 1258px;
+  max-height: 100%;
+  width: 57px;
+}
+.macbook-pro-16-8-child8 {
+  top: 947px;
+  left: 1010px;
+}
+.macbook-pro-16-8-child9 {
+  position: absolute;
+  top: 1937px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 1728px;
+  height: 132px;
+}
+.back-to-home4 {
+  position: absolute;
+  top: 1979px;
+  left: 648px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  cursor: pointer;
+}
+.macbook-pro-16-8-child10 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  box-shadow: 0 11px 10px rgba(0, 0, 0, 0.5);
+  width: 1728px;
+  height: 814px;
+}
+.vector-icon10,
+.vector-icon9 {
+  position: absolute;
+  height: 2.85%;
+  width: 1.97%;
+  top: 19.48%;
+  right: 2.08%;
+  bottom: 77.67%;
+  left: 95.95%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vector-icon10 {
+  right: 96.06%;
+  left: 1.97%;
+  object-fit: contain;
+}
+.jomsom-muktinath {
+  position: absolute;
+  top: 732px;
+  left: 571px;
+  font-size: var(--font-size-45xl);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.macbook-pro-16-8 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2069px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 212px;
+  height: 83px;
+}
+.frame-child1,
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 212px;
+  height: 29px;
+}
+.frame-child1,
+.frame-inner {
+  top: 27px;
+}
+.frame-child1 {
+  top: 54px;
+}
+.deluxe,
+.premium,
+.standard {
+  position: absolute;
+  top: 5px;
+  left: 71px;
+}
+.deluxe,
+.premium {
+  top: 32px;
+  left: 80px;
+}
+.premium {
+  top: 59px;
+  left: 72px;
+}
+.rectangle-root {
+  width: 212px;
+  position: relative;
+  height: 83px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
